@@ -1,0 +1,12 @@
+html,
+body {
+    background-color: black;
+}
+
+h1.title {
+    text-align: center;
+}
+
+div.col-lg-13 {
+    background-color: maroon;
+}
